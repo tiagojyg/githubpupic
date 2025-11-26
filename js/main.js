@@ -2,11 +2,10 @@ let productos = [];
 const contenedorProductos = document.querySelector("#contenedor-productos");
 const botonesCategorias = document.querySelectorAll(".boton-categoria");
 const tituloPrincipal = document.querySelector("#titulo-principal");
-let botonesAgregar = document.querySelectorAll(".producto-agregar");
 const numerito = document.querySelector("#numerito");
 
 // Cargar productos desde el JSON
-fetch("js/productos.json")
+fetch("./js/productos.json")
     .then(response => response.json())
     .then(data => {
         productos = data;
@@ -61,7 +60,7 @@ function cargarProductos(productosElegidos) {
 
 // Actualizar event listeners de botones agregar
 function actualizarBotonesAgregar() {
-    botonesAgregar = document.querySelectorAll(".producto-agregar");
+    const botonesAgregar = document.querySelectorAll(".producto-agregar");
     
     botonesAgregar.forEach(boton => {
         boton.addEventListener("click", agregarAlCarrito);
