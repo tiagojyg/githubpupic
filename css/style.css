@@ -367,3 +367,59 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+
+/* Botones de menú (solo visibles en móviles) */
+.abrir-menu,
+.cerrar-menu {
+    display: none; /* Ocultar por defecto */
+    border: none;
+    background-color: transparent;
+    color: var(--clr-beige);
+    cursor: pointer;
+    font-size: 2rem;
+    padding: 0 15px;
+}
+
+/* Ajuste del header para el botón de menú en móviles */
+@media screen and (max-width: 850px) {
+    /* Mostrar el botón de abrir menú */
+    .abrir-menu {
+        display: block;
+        position: absolute;
+        right: 15px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+    /* Ocultar el botón de cerrar menú por defecto */
+    .cerrar-menu {
+        display: block;
+        position: absolute;
+        top: 15px;
+        right: 15px;
+        z-index: 1002;
+    }
+
+    /* Ajuste de la navegación para el menú desplegable */
+    nav {
+        /* ... (tus estilos existentes: position: fixed, etc.) ... */
+        top: 60px; /* Ya está así en la media query, lo dejamos */
+        right: -200px; /* Lo ocultamos fuera de la pantalla */
+        transition: right 0.3s;
+        z-index: 1001;
+        /* Agregar un fondo para que cubra el contenido principal */
+        background-color: var(--clr-main); 
+        box-shadow: -4px 0 10px rgba(0, 0, 0, 0.2);
+    }
+    
+    /* Mostrar la navegación cuando tenga la clase .nav-visible */
+    nav.nav-visible {
+        right: 0;
+    }
+
+    /* Ocultar el título H1 en el header cuando el menú esté visible para dar más espacio */
+    h1 {
+        text-align: left;
+        padding-left: 1rem;
+    }
+}
