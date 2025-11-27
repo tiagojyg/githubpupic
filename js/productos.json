@@ -2,7 +2,7 @@
     {
         "id": "body-01",
         "titulo": "Body Blanco Talle M",
-        "imagen": "img/body.jpg",
+        "imagen": "img/Body.jpg",
         "categoria": {
             "nombre": "Bodys",
             "id": "bodys"
@@ -12,7 +12,7 @@
     {
         "id": "body-02",
         "titulo": "Body Cuadrille Talle XS",
-        "imagen": "img/camisa1.jpg",
+        "imagen": "img/Camisa1.jpg",
         "categoria": {
             "nombre": "Bodys",
             "id": "bodys"
@@ -22,7 +22,7 @@
     {
         "id": "camisa-01",
         "titulo": "Camisa Talle S",
-        "imagen": "img/camisa.jpg",
+        "imagen": "img/Camisa.jpg",
         "categoria": {
             "nombre": "Camisas",
             "id": "camisas"
@@ -52,7 +52,7 @@
     {
         "id": "remera-01",
         "titulo": "Remera Talle S",
-        "imagen": "img/remera2.jpg",
+        "imagen": "img/Remera2.jpg",
         "categoria": {
             "nombre": "Remeras",
             "id": "remeras"
@@ -62,7 +62,7 @@
     {
         "id": "remera-02",
         "titulo": "Remera Marron Talle M",
-        "imagen": "img/remera3.jpg",
+        "imagen": "img/Remera3.jpg",
         "categoria": {
             "nombre": "Remeras",
             "id": "remeras"
@@ -112,7 +112,7 @@
     {
         "id": "remera-04",
         "titulo": "Chaleco Sastrero Talle XS",
-        "imagen": "img/chaleco.jpg",
+        "imagen": "img/Chaleco.jpg",
         "categoria": {
             "nombre": "Remeras",
             "id": "remeras"
@@ -122,7 +122,7 @@
     {
         "id": "remera-04",
         "titulo": "Remera Estampada Talle L",
-        "imagen": "img/remera4.jpg",
+        "imagen": "img/Remera4.jpg",
         "categoria": {
             "nombre": "Remeras",
             "id": "remeras"
@@ -132,7 +132,7 @@
     {
         "id": "remera-04",
         "titulo": "Remera Denver Talle XS",
-        "imagen": "img/remera4(1).jpg",
+        "imagen": "img/Remera4(1).jpg",
         "categoria": {
             "nombre": "Remeras",
             "id": "remeras"
@@ -142,7 +142,7 @@
     {
         "id": "remera-04",
         "titulo": "Remera con Strass Talle XS",
-        "imagen": "img/remera5.jpg",
+        "imagen": "img/Remera5.jpg",
         "categoria": {
             "nombre": "Remeras",
             "id": "remeras"
@@ -152,7 +152,7 @@
     {
         "id": "remera-04",
         "titulo": "Remera Talle L",
-        "imagen": "img/remera6.jpg",
+        "imagen": "img/Remera6.jpg",
         "categoria": {
             "nombre": "Remeras",
             "id": "remeras"
@@ -162,7 +162,7 @@
     {
         "id": "remera-04",
         "titulo": "Remera Negra Talle M",
-        "imagen": "img/remera7.jpg",
+        "imagen": "img/Remera7.jpg",
         "categoria": {
             "nombre": "Remeras",
             "id": "remeras"
@@ -172,7 +172,7 @@
     {
         "id": "top-01",
         "titulo": "Top Estampado Talle XS",
-        "imagen": "img/top.jpg",
+        "imagen": "img/Top.jpg",
         "categoria": {
             "nombre": "Tops",
             "id": "tops"
@@ -182,7 +182,7 @@
     {
         "id": "top-02",
         "titulo": "Top Strapless Talle M",
-        "imagen": "img/top2.jpg",
+        "imagen": "img/Top2.jpg",
         "categoria": {
             "nombre": "Tops",
             "id": "tops"
@@ -192,7 +192,7 @@
     {
         "id": "top-03",
         "titulo": "Top Musculosa de Hilo Talle XS",
-        "imagen": "img/musculosa.jpg",
+        "imagen": "img/Musculosa.jpg",
         "categoria": {
             "nombre": "Tops",
             "id": "tops"
