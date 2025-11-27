@@ -1,342 +1,292 @@
 [
     {
         "id": "body-01",
-        "titulo": "Body Negro Básico",
+        "titulo": "Body Blanco Talle M",
         "imagen": "img/body.jpg",
         "categoria": {
             "nombre": "Bodys",
             "id": "bodys"
         },
-        "precio": 2500
+        "precio": 18000
     },
     {
         "id": "body-02",
-        "titulo": "Body Blanco Cuello V",
-        "imagen": "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=500",
+        "titulo": "Body Cuadrille Talle XS",
+        "imagen": "img/camisa1.jpg",
         "categoria": {
             "nombre": "Bodys",
             "id": "bodys"
         },
-        "precio": 2800
-    },
-    {
-        "id": "body-03",
-        "titulo": "Body Rojo Escote",
-        "imagen": "https://images.unsplash.com/photo-1596755389378-c31d21fd1273?w=500",
-        "categoria": {
-            "nombre": "Bodys",
-            "id": "bodys"
-        },
-        "precio": 3000
+        "precio": 17000
     },
     {
         "id": "camisa-01",
-        "titulo": "Camisa Blanca Clásica",
+        "titulo": "Camisa Talle S",
         "imagen": "img/camisa.jpg",
         "categoria": {
             "nombre": "Camisas",
             "id": "camisas"
         },
-        "precio": 3500
-    },
-    {
-        "id": "camisa-02",
-        "titulo": "Camisa Azul Marino",
-        "imagen": "img/camisa1.jpg",
-        "categoria": {
-            "nombre": "Camisas",
-            "id": "camisas"
-        },
-        "precio": 3800
+        "precio": 18000
     },
     {
         "id": "camisa-03",
-        "titulo": "Camisa Rayas Verticales",
-        "imagen": "https://images.unsplash.com/photo-1598032895215-d3f77e0e87aa?w=500",
+        "titulo": "Camisa Talle M",
+        "imagen": "img/Camisa2.jpg",
         "categoria": {
             "nombre": "Camisas",
             "id": "camisas"
         },
-        "precio": 4000
+        "precio": 17000
     },
     {
         "id": "camisa-04",
-        "titulo": "Camisa Cuadros Escocesa",
-        "imagen": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=500",
+        "titulo": "Camisa Manga Corta Talle M",
+        "imagen": "img/Camisa3.jpg",
         "categoria": {
             "nombre": "Camisas",
             "id": "camisas"
         },
-        "precio": 3700
+        "precio": 17000
     },
     {
         "id": "remera-01",
-        "titulo": "Remera Blanca Básica",
+        "titulo": "Remera Talle S",
         "imagen": "img/remera2.jpg",
         "categoria": {
             "nombre": "Remeras",
             "id": "remeras"
         },
-        "precio": 1800
+        "precio": 15000
     },
     {
         "id": "remera-02",
-        "titulo": "Remera Negra Oversize",
+        "titulo": "Remera Marron Talle M",
         "imagen": "img/remera3.jpg",
         "categoria": {
             "nombre": "Remeras",
             "id": "remeras"
         },
-        "precio": 2200
-    },
-    {
-        "id": "remera-03",
-        "titulo": "Remera Gris Melange",
-        "imagen": "https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?w=500",
-        "categoria": {
-            "nombre": "Remeras",
-            "id": "remeras"
-        },
-        "precio": 2000
+        "precio": 15000
     },
     {
         "id": "remera-04",
-        "titulo": "Remera Estampada",
-        "imagen": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=500",
+        "titulo": "Remera Manga Larga Talle S",
+        "imagen": "img/Remera-manga-larga2.jpg",
         "categoria": {
             "nombre": "Remeras",
             "id": "remeras"
         },
-        "precio": 2500
+        "precio": 16000
     },
     {
-        "id": "remera-manga-larga-01",
-        "titulo": "Remera ML Blanca",
-        "imagen": "img/remera-manga-larga.jpg",
+        "id": "remera-04",
+        "titulo": "Remera Manga Larga Negra Talle XS",
+        "imagen": "img/Remera-manga-larga.jpg",
         "categoria": {
-            "nombre": "Remeras Manga Larga",
-            "id": "remeras-manga-larga"
+            "nombre": "Remeras",
+            "id": "remeras"
         },
-        "precio": 2400
+        "precio": 17000
     },
     {
-        "id": "remera-manga-larga-02",
-        "titulo": "Remera ML Negra Cuello Alto",
-        "imagen": "img/remera-manga-larga2.jpg",
+        "id": "remera-04",
+        "titulo": "Remera Asimetrica de Hilo Talle S",
+        "imagen": "img/Remera-manga-larga3.jpg",
         "categoria": {
-            "nombre": "Remeras Manga Larga",
-            "id": "remeras-manga-larga"
+            "nombre": "Remeras",
+            "id": "remeras"
         },
-        "precio": 2800
+        "precio": 17000
     },
     {
-        "id": "remera-manga-larga-03",
-        "titulo": "Remera ML Rayas",
-        "imagen": "img/remera-manga-larga3.jpg",
+        "id": "remera-04",
+        "titulo": "Remera con Cierre Talle M",
+        "imagen": "img/Remera-manga-larga4.jpg",
         "categoria": {
-            "nombre": "Remeras Manga Larga",
-            "id": "remeras-manga-larga"
+            "nombre": "Remeras",
+            "id": "remeras"
         },
-        "precio": 2600
+        "precio": 17000
     },
     {
-        "id": "remera-manga-larga-04",
-        "titulo": "Remera ML Rayas",
-        "imagen": "img/remera-manga-larga4.jpg",
+        "id": "remera-04",
+        "titulo": "Chaleco Sastrero Talle XS",
+        "imagen": "img/chaleco.jpg",
         "categoria": {
-            "nombre": "Remeras Manga Larga",
-            "id": "remeras-manga-larga"
+            "nombre": "Remeras",
+            "id": "remeras"
         },
-        "precio": 3600
+        "precio": 17000
+    },
+    {
+        "id": "remera-04",
+        "titulo": "Remera Estampada Talle L",
+        "imagen": "img/remera4.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "remera-04",
+        "titulo": "Remera Denver Talle XS",
+        "imagen": "img/remera4(1).jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "remera-04",
+        "titulo": "Remera con Strass Talle XS",
+        "imagen": "img/remera5.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "remera-04",
+        "titulo": "Remera Talle L",
+        "imagen": "img/remera6.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 16000
+    },
+    {
+        "id": "remera-04",
+        "titulo": "Remera Negra Talle M",
+        "imagen": "img/remera7.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 16000
     },
     {
         "id": "top-01",
-        "titulo": "Top Deportivo Negro",
+        "titulo": "Top Estampado Talle XS",
         "imagen": "img/top.jpg",
         "categoria": {
             "nombre": "Tops",
             "id": "tops"
         },
-        "precio": 2000
+        "precio": 15000
     },
     {
         "id": "top-02",
-        "titulo": "Top Blanco Tiritas",
+        "titulo": "Top Strapless Talle M",
         "imagen": "img/top2.jpg",
         "categoria": {
             "nombre": "Tops",
             "id": "tops"
         },
-        "precio": 1800
+        "precio": 17000
     },
     {
         "id": "top-03",
-        "titulo": "Top Crop Rosa",
-        "imagen": "https://images.unsplash.com/photo-1589992608022-0de7c05ff6c2?w=500",
+        "titulo": "Top Musculosa de Hilo Talle XS",
+        "imagen": "img/musculosa.jpg",
         "categoria": {
             "nombre": "Tops",
             "id": "tops"
         },
-        "precio": 2200
+        "precio": 15000
     },
     {
-        "id": "musculosa-01",
-        "titulo": "Musculosa Blanca",
-        "imagen": "img/musculosa.jpg",
+        "id": "top-03",
+        "titulo": "Top Strapless de Hilo Talle XS",
+        "imagen": "img/Top3.jpg",
         "categoria": {
-            "nombre": "Musculosas",
-            "id": "musculosas"
+            "nombre": "Tops",
+            "id": "tops"
         },
-        "precio": 1500
+        "precio": 15000
     },
     {
-        "id": "musculosa-02",
-        "titulo": "Musculosa Negra Básica",
-        "imagen": "https://images.unsplash.com/photo-1584370848010-d7fe6bc767ec?w=500",
+        "id": "top-03",
+        "titulo": "Top Marron Talle S",
+        "imagen": "img/Top4.jpg",
         "categoria": {
-            "nombre": "Musculosas",
-            "id": "musculosas"
+            "nombre": "Tops",
+            "id": "tops"
         },
-        "precio": 1500
-    },
-    {
-        "id": "musculosa-03",
-        "titulo": "Musculosa Gris Deportiva",
-        "imagen": "https://images.unsplash.com/photo-1622445275463-afa2ab738c34?w=500",
-        "categoria": {
-            "nombre": "Musculosas",
-            "id": "musculosas"
-        },
-        "precio": 1700
-    },
-    {
-        "id": "chaleco-01",
-        "titulo": "Chaleco Negro Acolchado",
-        "imagen": "img/chaleco.jpg",
-        "categoria": {
-            "nombre": "Chalecos",
-            "id": "chalecos"
-        },
-        "precio": 4500
-    },
-    {
-        "id": "chaleco-02",
-        "titulo": "Chaleco Beige Oversize",
-        "imagen": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=500",
-        "categoria": {
-            "nombre": "Chalecos",
-            "id": "chalecos"
-        },
-        "precio": 5000
-    },
-    {
-        "id": "chaleco-03",
-        "titulo": "Chaleco Azul Marino",
-        "imagen": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=500",
-        "categoria": {
-            "nombre": "Chalecos",
-            "id": "chalecos"
-        },
-        "precio": 4800
+        "precio": 15000
     },
     {
         "id": "pantalon-01",
-        "titulo": "Jean Azul Clásico",
+        "titulo": "Pantalón Palazzo de Lino Talle S",
         "imagen": "img/pantalon/1.jpeg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 4500
+        "precio": 20000
     },
     {
         "id": "pantalon-02",
-        "titulo": "Pantalón Negro Jogger",
+        "titulo": "Pantalón Palazzo con Abertura Talle M",
         "imagen": "img/pantalon/2.jpeg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 3800
+        "precio": 20000
     },
     {
         "id": "pantalon-03",
-        "titulo": "Pantalón Cargo Verde",
+        "titulo": "Pantalón Palazzo Talle S",
         "imagen": "img/pantalon/3.jpeg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 4200
+        "precio": 20000
     },
     {
         "id": "pantalon-04",
-        "titulo": "Jean Negro Skinny",
+        "titulo": "Pantalón Palazzo Animal Prime Talle XL",
         "imagen": "img/pantalon/4.jpeg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 4700
+        "precio": 20000
     },
     {
         "id": "pantalon-05",
-        "titulo": "Jean Negro Skinny",
+        "titulo": "Pantalón Palazzo Negro Talle L",
         "imagen": "img/pantalon/5.jpeg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 4700
+        "precio": 20000
     },
         {
         "id": "pantalon-06",
-        "titulo": "Jean Negro Skinny",
+        "titulo": "Pantalón Palazzo Blanco Talle M",
         "imagen": "img/pantalon/6.jpeg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 4700
+        "precio": 20000
     },
         {
         "id": "pantalon-07",
-        "titulo": "Jean Negro Skinny",
+        "titulo": "Pantalón Palazzo Talle XS",
         "imagen": "img/pantalon/7.jpeg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 4700
-    },
-    {
-        "id": "abrigo-01",
-        "titulo": "Campera Cuero Negra",
-        "imagen": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=500",
-        "categoria": {
-            "nombre": "Abrigos",
-            "id": "abrigos"
-        },
-        "precio": 8500
-    },
-    {
-        "id": "abrigo-02",
-        "titulo": "Abrigo Largo Camel",
-        "imagen": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?w=500",
-        "categoria": {
-            "nombre": "Abrigos",
-            "id": "abrigos"
-        },
-        "precio": 9000
-    },
-    {
-        "id": "abrigo-03",
-        "titulo": "Bomber Jacket Verde",
-        "imagen": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=500",
-        "categoria": {
-            "nombre": "Abrigos",
-            "id": "abrigos"
-        },
-        "precio": 7500
+        "precio": 20000
     }
 ]
